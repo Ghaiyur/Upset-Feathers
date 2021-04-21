@@ -2,8 +2,8 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ghaiyur.Upset-Feathers)
 
-# Upset-Feathers
-Built using unity , assets have been taken from opengameart.
+# Upset-Feathers?
+A harrowing tale of a bird diagnosed with anger mismanagement ,can you surive the tantrums ?
 
 ## At the Itch 
 
