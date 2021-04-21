@@ -17,6 +17,6 @@ https://ghaiyur.itch.io/upset-feathers
 
 ## Get in connect right now 
 
-For colloborations and other upset birds at ghaiyur@gmail.com
+For collaborations and other upset birds at ghaiyur@gmail.com
 
 
