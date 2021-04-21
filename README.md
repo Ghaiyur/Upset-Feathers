@@ -2,8 +2,19 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ghaiyur.Upset-Feathers)
 
-# Upset-Feathers?
+# Upset-Feathers
 A harrowing tale of a bird diagnosed with anger mismanagement ,can you surive the tantrums ?
+
+## Skills Practiced 
+
+- Unity Game Design
+- Level Engine Creation 
+- GIMP 
+- UnityEngine with C# 
+- Level Controlling 
+- Particle Ecosystem 
+- Version Controlling 
+- Build Pipelining
 
 ## At the Itch 
 
