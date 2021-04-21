@@ -1,4 +1,5 @@
-![logo](UpsetFeathersLogo.png)
+![logo](UpsetFeatherLogo.png)
+
 # Upset-Feathers
 Built using unity , assets have been taken from opengameart.
 
